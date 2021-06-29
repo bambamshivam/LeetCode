@@ -1,1 +1,1 @@
-This repo contains the problems solved in various LeetCde contests.
+This repo contains the problems solved in various LeetCode contests.
